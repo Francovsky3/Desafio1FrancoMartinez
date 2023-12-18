@@ -1,0 +1,14 @@
+C:\Users\francou\source\repos\Ejercicio1Clase1\Ejercicio1Clase1\bin\Debug\net6.0\Desafio1FrancoMartinez.exe
+C:\Users\francou\source\repos\Ejercicio1Clase1\Ejercicio1Clase1\bin\Debug\net6.0\Desafio1FrancoMartinez.deps.json
+C:\Users\francou\source\repos\Ejercicio1Clase1\Ejercicio1Clase1\bin\Debug\net6.0\Desafio1FrancoMartinez.runtimeconfig.json
+C:\Users\francou\source\repos\Ejercicio1Clase1\Ejercicio1Clase1\bin\Debug\net6.0\Desafio1FrancoMartinez.dll
+C:\Users\francou\source\repos\Ejercicio1Clase1\Ejercicio1Clase1\bin\Debug\net6.0\Desafio1FrancoMartinez.pdb
+C:\Users\francou\source\repos\Ejercicio1Clase1\Ejercicio1Clase1\obj\Debug\net6.0\Desafio1FrancoMartinez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\francou\source\repos\Ejercicio1Clase1\Ejercicio1Clase1\obj\Debug\net6.0\Desafio1FrancoMartinez.AssemblyInfoInputs.cache
+C:\Users\francou\source\repos\Ejercicio1Clase1\Ejercicio1Clase1\obj\Debug\net6.0\Desafio1FrancoMartinez.AssemblyInfo.cs
+C:\Users\francou\source\repos\Ejercicio1Clase1\Ejercicio1Clase1\obj\Debug\net6.0\Desafio1FrancoMartinez.csproj.CoreCompileInputs.cache
+C:\Users\francou\source\repos\Ejercicio1Clase1\Ejercicio1Clase1\obj\Debug\net6.0\Desafio1FrancoMartinez.dll
+C:\Users\francou\source\repos\Ejercicio1Clase1\Ejercicio1Clase1\obj\Debug\net6.0\refint\Desafio1FrancoMartinez.dll
+C:\Users\francou\source\repos\Ejercicio1Clase1\Ejercicio1Clase1\obj\Debug\net6.0\Desafio1FrancoMartinez.pdb
+C:\Users\francou\source\repos\Ejercicio1Clase1\Ejercicio1Clase1\obj\Debug\net6.0\Desafio1FrancoMartinez.genruntimeconfig.cache
+C:\Users\francou\source\repos\Ejercicio1Clase1\Ejercicio1Clase1\obj\Debug\net6.0\ref\Desafio1FrancoMartinez.dll
